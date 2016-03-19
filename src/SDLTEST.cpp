@@ -1,6 +1,7 @@
 #include <SDL.h>
 #include <stdio.h>
 
+
 const int TELA_LARGURA = 640;
 const int TELA_ALTURA = 480;
 
